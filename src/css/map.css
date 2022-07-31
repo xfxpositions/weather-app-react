@@ -1,0 +1,6 @@
+
+path:hover{
+    transition: all 0.2s ease-in;
+    fill: #be123c;
+    cursor: pointer;
+}
